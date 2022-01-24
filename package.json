@@ -1,0 +1,17 @@
+{
+  "name": "videojs-xhr-wrapper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c --exports default"
+  },
+  "author": "iChengbo",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^2.66.0"
+  },
+  "dependencies": {
+    "@videojs/xhr": "^2.6.0"
+  }
+}
